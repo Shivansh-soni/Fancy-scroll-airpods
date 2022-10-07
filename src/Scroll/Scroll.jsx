@@ -44,7 +44,12 @@ function Scroll() {
 
   return (
     <div className="App">
+      <h3>Scroll Down</h3>
       <canvas ref={canvasRef}></canvas>
+      <h4>
+        Made with ❤️ by{" "}
+        <a href="https://www.shivanshsoni.com/">Shivansh Soni</a>
+      </h4>
     </div>
   );
 }
