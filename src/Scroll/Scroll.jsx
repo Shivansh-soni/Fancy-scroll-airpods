@@ -1,6 +1,5 @@
-import React, { useState, useEffect, useRef } from "react";
+import React, { useEffect, useRef } from "react";
 import "./Scroll.css";
-import First from "../assets/1.jpg";
 import "react-canvas-paint/dist/index.css";
 
 function Scroll() {
